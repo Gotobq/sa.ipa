@@ -1,10 +1,1 @@
-!
-! Title: offit by ooovpn.xyz 中国人
-! Description: 适用于ooovpn测试的呼
-! Homepage: https://mi.com
-! Source: https://raw.les/adblockdns.ipa
-! Last modified: 2024/06/28 08:11:25
-! unBlocked domains: 47
-!
-||mi.com^$important
-
+好
